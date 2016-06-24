@@ -1,1 +1,1 @@
-# This is a scrapy based crawler that crawls the API names of the Pandas Library: http://pandas.pydata.org/pandas-docs/stable/api.html
+This is a scrapy based crawler that crawls the API names of the Pandas Library: http://pandas.pydata.org/pandas-docs/stable/api.html
